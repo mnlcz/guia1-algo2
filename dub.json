@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"mnlcz"
+	],
+	"copyright": "Copyright © 2023, mnlcz",
+	"description": "Guia 1 sobre TDA de Algo2",
+	"license": "mit",
+	"name": "guia1",
+	"targetPath": "./build"
+}

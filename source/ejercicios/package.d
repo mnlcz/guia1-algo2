@@ -1,0 +1,23 @@
+module ejercicios;
+
+public import ejercicios.ej0;
+public import ejercicios.ej1;
+public import ejercicios.ej2;
+public import ejercicios.ej3;
+public import ejercicios.ej4;
+public import ejercicios.ej5;
+public import ejercicios.ej6;
+public import ejercicios.ej7;
+public import ejercicios.ej8;
+public import ejercicios.ej9;
+public import ejercicios.ej10;
+public import ejercicios.ej11;
+public import ejercicios.ej12;
+public import ejercicios.ej13;
+public import ejercicios.ej14;
+public import ejercicios.ej15;
+public import ejercicios.ej16;
+public import ejercicios.ej17;
+public import ejercicios.ej18;
+public import ejercicios.ej19;
+public import ejercicios.ej20;
