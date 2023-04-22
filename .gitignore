@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/guia1
+guia1.so
+guia1.dylib
+guia1.dll
+guia1.a
+guia1.lib
+guia1-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
